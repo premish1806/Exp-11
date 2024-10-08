@@ -35,6 +35,7 @@ cout << "Car Details: " << myCar.make << " " << myCar.model << " (" << myCar.yea
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/9c703c0a-43a6-4684-9e5e-1f6b8670ef1b)
 
 
 ## Program 2: Class with User Input
@@ -77,6 +78,7 @@ int main() {
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/74bb8b6f-6c6c-4b21-97aa-9650267ca638)
 
 
 ## Program 3: Area of Rectangle by Using Classes.
@@ -111,6 +113,7 @@ int main() {
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/b6cd0742-2f1d-42f5-88ca-557352747da6)
 
 
 ## Program 4:  
@@ -153,6 +156,7 @@ int main()
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/96b39298-d929-4222-92fc-fd2525651f5f)
 
 
 ## Conclusion:
